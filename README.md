@@ -1,6 +1,6 @@
-### <h1 align="center">Hi 👋, I'm Alexey Tarasikov</h1>
-### <h2 align="center">A passionate Python Developer from Ukraine</h2>
-### <h3 align="center"></h3>
+### <h1 align="center">Hi 👋 !!!</h1>
+### <h2 align="center">I'm Alexey Tarasikov from Ukraine</h2>
+### <h3 align="center">I'm Junior Full stack JS, Python Developer</h3>
 
 <!--
 **AlexeyTarasikov/AlexeyTarasikov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
