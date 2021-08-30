@@ -14,6 +14,8 @@
     <a href="https://github.com/AlexeyTarasikov?tab=repositories&language=shell" target="_blank"><img alt="shell" src="https://img.shields.io/badge/-shell-5391FE?style=flat-square&logo=PowerShell&logoColor=white"></a>
 </p>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=AlexeyTarasikov" alt="skupriienko" /> </p>
+
 <details>
 <summary>Click for GitHub Stats</summary>
 <p align="center">
@@ -26,13 +28,13 @@
 ### Tech Stack
 
 - Python;
-- 
+
 - JS, React.js (React Hooks), Redux.js, Node.js;
-- 
+
 - SQL (MongoDB, PostgreSQL);
-- 
+
 - JSON, Git, GitHub;
-- 
+
 - Docker, Linux Shell.
 
 ### Contacts
