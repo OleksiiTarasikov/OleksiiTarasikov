@@ -1,4 +1,6 @@
-### Hi 👋, I'm Alexey Tarasikov
+### <h1 align="center">Hi 👋, I'm Alexey Tarasikov</h1>
+
+### 
 
 <!--
 **AlexeyTarasikov/AlexeyTarasikov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
