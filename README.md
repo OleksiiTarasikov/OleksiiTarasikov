@@ -6,7 +6,6 @@
     <a href="https://github.com/AlexeyTarasikov?tab=followers" target="_blank"><img alt="Updates" src="https://img.shields.io/badge/--000000?style=flat-square&logo=RSS&logoColor=white"></a>
     <a href="https://github.com/AlexeyTarasikov" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@AlexeyTarasikov-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
     <a href="https://www.linkedin.com/in/alexeytarasikov" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
-    <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/docker.svg' alt='docker' height='40'> (D12345)
 </p>
 
 <p align="center">
