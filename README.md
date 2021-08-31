@@ -25,7 +25,7 @@
 </p>
 </details>
 
-### Tech Stack
+### Tech Stack:
 
 - Python;
 
@@ -36,6 +36,12 @@
 - JSON, Git, GitHub;
 
 - Docker, Linux Shell.
+
+### LANGUAGES:
+- English – basic;
+- Spanish – basic;
+- Ukrainian – in excellence;
+- Russian – in excellence.
 
 <!--
 **AlexeyTarasikov/AlexeyTarasikov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
