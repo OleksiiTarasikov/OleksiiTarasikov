@@ -1,6 +1,6 @@
 ### <h1 align="center">Hi 👋 !!!</h1>
 ### <h2 align="center">I'm Alexey Tarasikov from Ukraine</h2>
-### <h3 align="center">I'm Junior Full stack JS, Python Developer</h3>
+### <h3 align="center">I'm Junior Full Stack JS, Python Developer</h3>
 
 <p align="center">
     <a href="https://github.com/AlexeyTarasikov?tab=followers" target="_blank"><img alt="Updates" src="https://img.shields.io/badge/--000000?style=flat-square&logo=RSS&logoColor=white"></a>
