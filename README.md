@@ -26,15 +26,10 @@
 </details>
 
 ### Tech Stack:
-
 - Python;
-
 - JS, React.js (React Hooks), Redux.js, Node.js;
-
 - SQL (MongoDB, PostgreSQL);
-
 - JSON, Git, GitHub;
-
 - Docker, Linux Shell.
 
 ### LANGUAGES:
@@ -42,6 +37,9 @@
 - Spanish – basic;
 - Ukrainian – in excellence;
 - Russian – in excellence.
+
+### SOFT SKILLS:
+Creativity, proactivity, teamwork, continuous & fast learning.
 
 <!--
 **AlexeyTarasikov/AlexeyTarasikov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
