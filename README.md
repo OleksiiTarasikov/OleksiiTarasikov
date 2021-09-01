@@ -47,6 +47,7 @@
 ### SOFT SKILLS:
 Creativity, proactivity, teamwork, continuous & fast learning.
 
+### Metrics:
 ![Metrics](https://metrics.lecoq.io/AlexeyTarasikov?template=classic&config.timezone=Europe%2FKiev)
 
 <!--
