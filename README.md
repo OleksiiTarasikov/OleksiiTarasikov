@@ -47,7 +47,7 @@
 ### SOFT SKILLS:
 Creativity, proactivity, teamwork, continuous & fast learning.
 
-
+![Metrics](https://metrics.lecoq.io/AlexeyTarasikov?template=classic&config.timezone=Europe%2FKiev)
 
 <!--
 **AlexeyTarasikov/AlexeyTarasikov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
