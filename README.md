@@ -32,7 +32,7 @@
 
 ### Tech Stack:
 - Python;
-- JS, React.js (React Hooks), Redux.js, Node.js;
+- JS, React.js (React Hooks), Redux.js, Express.js, Sequelize, Node.js;
 - SQL (MongoDB, PostgreSQL);
 - JSON, Git, GitHub;
 - Docker, Linux Shell.
