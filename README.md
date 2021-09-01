@@ -41,6 +41,12 @@
 ### SOFT SKILLS:
 Creativity, proactivity, teamwork, continuous & fast learning.
 
+### Tools:
+[![OS](https://img.shields.io/badge/OS-macOS-informational?style=flat-square&logo=apple&logoColor=white)](https://en.wikipedia.org/wiki/MacOS)
+[![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
+[![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+[![Editor](https://img.shields.io/badge/Editor-PyCharm-blue?style=flat-square&logo=pycharm&logoColor=white)](https://www.jetbrains.com/ru-ru/pycharm/)
+
 <!--
 **AlexeyTarasikov/AlexeyTarasikov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
