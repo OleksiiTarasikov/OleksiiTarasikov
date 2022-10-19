@@ -1,5 +1,5 @@
 ### <h1 align="center">Hi 👋 !!!</h1>
-### <h2 align="center">I'm Alexey Tarasikov from Ukraine</h2>
+### <h2 align="center">I'm Oleksii Tarasikov from Ukraine</h2>
 ### <h3 align="center">I'm Junior Full Stack JS, Python Developer</h3>
 
 <p align="center">
